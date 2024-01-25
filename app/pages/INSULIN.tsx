@@ -41,7 +41,7 @@ const INSULIN = () => {
                 <td>30</td>
                 <td>24 Jan</td>
                 <td>199</td>
-                <td></td>
+                <td>290</td>
                 <td></td>
                 <td></td>
             </tr>
